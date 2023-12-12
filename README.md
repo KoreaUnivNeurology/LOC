@@ -1,4 +1,4 @@
-# LOC Cause Differentiation Project
+# Project: Functional connectivity-based artificial intelligence models for differentiating causes in loss of consciousness
 
 ## Overview
 This repository hosts notebooks for a specialized task in differentiating causes of Loss of Consciousness (LOC) using Machine Learning and Deep Learning approaches.
