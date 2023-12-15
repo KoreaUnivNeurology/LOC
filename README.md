@@ -8,10 +8,13 @@ The task focuses on distinguishing between various causes of LOC, leveraging the
 
 ## Files in the Repository
 
-1. **Deep_learning_prediction.ipynb**
+1. **Feature_visualization.ipynb**
+   - Visualizes the functional connectivity features (i.e., coherence, graph measurements).
+
+2. **Deep_learning_prediction.ipynb**
    - Demonstrates the application of deep learning techniques in differentiating LOC causes. It includes model architectures, training procedures, and performance metrics specific to deep learning.
 
-2. **Machine_learning_prediction.ipynb**
+3. **Machine_learning_prediction.ipynb**
    - Focuses on using traditional machine learning methods for the same task. It covers a range of algorithms, feature selection techniques, and comparative analysis.
 
 ## Requirements
